@@ -26,7 +26,7 @@ int main(){
     long long n;
     while (true)
     {
-        scanf("%lld",&n);\
+        scanf("%lld",&n);
         if (n == 0)
         {
             break;
